@@ -1,6 +1,6 @@
 <br>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=36&pause=1000&color=1BF711&width=435&lines=Hello!+I'm+Rafael)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=36&pause=1000&color=1BF711&center=true&vCenter=true&width=435&lines=Hello!+I'm+Rafael)](https://git.io/typing-svg)
 
 <h3 align="center">Web & Mobile Fullstack Developer | Lead Fullstack Developer at STech & BizVision Tech | Software Engineer at FIAP | Systems Development Technician</h3>
 
