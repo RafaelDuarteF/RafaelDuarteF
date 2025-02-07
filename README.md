@@ -45,7 +45,7 @@
 ### 📚 Publicações
 
 - **"Informática: Complexidades da Computação"**  
-  Disponível na [Amazon](https://www.amazon.com.br/Informática-Complexidades-Computação-Rafael-Soares/dp/xxxxxxx).
+  Disponível na [Amazon](https://www.amazon.com/dp/B09TYM7ZHM).
 
 ---
 
