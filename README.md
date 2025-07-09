@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=36&pause=1000&color=1BF711&center=true&vCenter=true&width=435&lines=Hello!+I'm+Rafael)](https://git.io/typing-svg)
 
-<h3 align="center">Web & Mobile Fullstack Developer | Lead Fullstack Developer at STech & BizVision Tech | Software Engineer at FIAP | Systems Development Technician</h3>
+<h3 align="center">Tech Lead | Software Engineer | High-Performance Systems Engineer @ STech</h3>
 
 ---
 
@@ -11,8 +11,8 @@
 - 📚 Autor do livro **"Informática: Complexidades da Computação"** (disponível na Amazon).
 - 💻 Apaixonado por tecnologia desde os 13 anos.
 - 🎓 Cursando **Engenharia de Software na FIAP**.
-- 🚀 Atualmente, **Lead Fullstack Developer** na STech, desenvolvendo aplicações web e mobile (Front & Back), estruturas de dados e integrações.
-- 🧠 Perfil voltado para **Business**: ideação de soluções, visão analítica de oferta e demanda, e entendimento de requisitos de negócios.
+- 🚀 Atualmente, **Lead Fullstack Developer** na STech, atuando no desenvolvimento de aplicações **web e mobile** (Front & Back), integrações e estruturas de dados.
+- 🧠 Perfil orientado a **negócios**, com foco em ideação de soluções, análise de oferta e demanda e entendimento de requisitos.
 
 ---
 
@@ -26,11 +26,13 @@
 #### Backend
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 
 #### Banco de Dados
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 
 #### Mobile
 ![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black)
@@ -52,7 +54,6 @@
 ### 📈 Estatísticas do GitHub
 
 ![Rafael's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rafaelduartef&show_icons=true&theme=dark&hide_border=true)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelduartef&layout=compact&theme=dark&hide_border=true)
 
 ---
@@ -67,4 +68,5 @@
 
 ### 💡 Inspiração
 
-> "Prazer pela busca, não a busca pelo prazer."  
+> "Prazer pela busca, não a busca pelo prazer."
+
