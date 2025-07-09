@@ -41,6 +41,7 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Kanban](https://img.shields.io/badge/Kanban-2584FF?style=for-the-badge&logo=kanban&logoColor=white)
 ![API](https://img.shields.io/badge/API-FF6F61?style=for-the-badge&logo=api&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 ---
 
@@ -69,4 +70,3 @@
 ### 💡 Inspiração
 
 > "Prazer pela busca, não a busca pelo prazer."
-
