@@ -1,6 +1,3 @@
-<br>
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=36&pause=1000&color=1BF711&center=true&vCenter=true&width=435&lines=Hello!+I'm+Rafael)](https://git.io/typing-svg)
-
 <h3 align="center">Tech Lead | Software Engineer | AI Solutions</h3>
 
 ---
